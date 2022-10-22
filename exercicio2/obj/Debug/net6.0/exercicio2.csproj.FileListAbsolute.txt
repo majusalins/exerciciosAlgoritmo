@@ -1,0 +1,15 @@
+C:\Users\majuh\OneDrive\Área de Trabalho\Atividades - Algoritmo\exercicio2\bin\Debug\net6.0\exercicio2.exe
+C:\Users\majuh\OneDrive\Área de Trabalho\Atividades - Algoritmo\exercicio2\bin\Debug\net6.0\exercicio2.deps.json
+C:\Users\majuh\OneDrive\Área de Trabalho\Atividades - Algoritmo\exercicio2\bin\Debug\net6.0\exercicio2.runtimeconfig.json
+C:\Users\majuh\OneDrive\Área de Trabalho\Atividades - Algoritmo\exercicio2\bin\Debug\net6.0\exercicio2.dll
+C:\Users\majuh\OneDrive\Área de Trabalho\Atividades - Algoritmo\exercicio2\bin\Debug\net6.0\exercicio2.pdb
+C:\Users\majuh\OneDrive\Área de Trabalho\Atividades - Algoritmo\exercicio2\obj\Debug\net6.0\exercicio2.csproj.AssemblyReference.cache
+C:\Users\majuh\OneDrive\Área de Trabalho\Atividades - Algoritmo\exercicio2\obj\Debug\net6.0\exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\majuh\OneDrive\Área de Trabalho\Atividades - Algoritmo\exercicio2\obj\Debug\net6.0\exercicio2.AssemblyInfoInputs.cache
+C:\Users\majuh\OneDrive\Área de Trabalho\Atividades - Algoritmo\exercicio2\obj\Debug\net6.0\exercicio2.AssemblyInfo.cs
+C:\Users\majuh\OneDrive\Área de Trabalho\Atividades - Algoritmo\exercicio2\obj\Debug\net6.0\exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\majuh\OneDrive\Área de Trabalho\Atividades - Algoritmo\exercicio2\obj\Debug\net6.0\exercicio2.dll
+C:\Users\majuh\OneDrive\Área de Trabalho\Atividades - Algoritmo\exercicio2\obj\Debug\net6.0\refint\exercicio2.dll
+C:\Users\majuh\OneDrive\Área de Trabalho\Atividades - Algoritmo\exercicio2\obj\Debug\net6.0\exercicio2.pdb
+C:\Users\majuh\OneDrive\Área de Trabalho\Atividades - Algoritmo\exercicio2\obj\Debug\net6.0\exercicio2.genruntimeconfig.cache
+C:\Users\majuh\OneDrive\Área de Trabalho\Atividades - Algoritmo\exercicio2\obj\Debug\net6.0\ref\exercicio2.dll
