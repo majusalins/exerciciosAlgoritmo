@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\majuh\\OneDrive\\Área de Trabalho\\Atividades - Algoritmo\\exercicio10\\exercicio10.csproj",
+      "projectUniqueName": "C:\\Users\\majuh\\Source\\Repos\\majusalins\\exerciciosAlgoritmo\\exercicio10\\exercicio10.csproj",
       "projectName": "exercicio10",
-      "projectPath": "C:\\Users\\majuh\\OneDrive\\Área de Trabalho\\Atividades - Algoritmo\\exercicio10\\exercicio10.csproj",
+      "projectPath": "C:\\Users\\majuh\\Source\\Repos\\majusalins\\exerciciosAlgoritmo\\exercicio10\\exercicio10.csproj",
       "packagesPath": "C:\\Users\\majuh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\majuh\\OneDrive\\Área de Trabalho\\Atividades - Algoritmo\\exercicio10\\obj\\",
+      "outputPath": "C:\\Users\\majuh\\Source\\Repos\\majusalins\\exerciciosAlgoritmo\\exercicio10\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\majuh\\AppData\\Roaming\\NuGet\\NuGet.Config",

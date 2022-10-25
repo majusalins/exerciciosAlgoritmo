@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\majuh\\OneDrive\\Área de Trabalho\\Atividades - Algoritmo\\exercicio5.8\\exercicio5.8.csproj": {}
+    "C:\\Users\\majuh\\Source\\Repos\\majusalins\\exerciciosAlgoritmo\\exercicio5.8\\exercicio5.8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\majuh\\OneDrive\\Área de Trabalho\\Atividades - Algoritmo\\exercicio5.8\\exercicio5.8.csproj": {
+    "C:\\Users\\majuh\\Source\\Repos\\majusalins\\exerciciosAlgoritmo\\exercicio5.8\\exercicio5.8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\majuh\\OneDrive\\Área de Trabalho\\Atividades - Algoritmo\\exercicio5.8\\exercicio5.8.csproj",
+        "projectUniqueName": "C:\\Users\\majuh\\Source\\Repos\\majusalins\\exerciciosAlgoritmo\\exercicio5.8\\exercicio5.8.csproj",
         "projectName": "exercicio5.8",
-        "projectPath": "C:\\Users\\majuh\\OneDrive\\Área de Trabalho\\Atividades - Algoritmo\\exercicio5.8\\exercicio5.8.csproj",
+        "projectPath": "C:\\Users\\majuh\\Source\\Repos\\majusalins\\exerciciosAlgoritmo\\exercicio5.8\\exercicio5.8.csproj",
         "packagesPath": "C:\\Users\\majuh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\majuh\\OneDrive\\Área de Trabalho\\Atividades - Algoritmo\\exercicio5.8\\obj\\",
+        "outputPath": "C:\\Users\\majuh\\Source\\Repos\\majusalins\\exerciciosAlgoritmo\\exercicio5.8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\majuh\\AppData\\Roaming\\NuGet\\NuGet.Config",
